@@ -1,0 +1,4 @@
+baseURL = 'https://rei-nert.github.io'
+languageCode = 'en-us'
+title = 'Gabriel J Reinert'
+theme = 'ananke'
