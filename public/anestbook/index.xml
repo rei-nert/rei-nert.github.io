@@ -1,27 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Gabriel J Reinert</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on Gabriel J Reinert</description>
+    <title>Anestbooks on Gabriel J Reinert</title>
+    <link>http://localhost:1313/anestbook/</link>
+    <description>Recent content in Anestbooks on Gabriel J Reinert</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 09 Oct 2025 23:22:48 -0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Anestesia Handbook</title>
-      <link>http://localhost:1313/anestbook/</link>
-      <pubDate>Thu, 09 Oct 2025 23:22:48 -0300</pubDate>
-      <guid>http://localhost:1313/anestbook/</guid>
-      <description>&lt;p&gt;The best anesthesiologist companion app.&lt;/p&gt;&#xA;&lt;p&gt;Soon available on Android and iOS&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>About</title>
-      <link>http://localhost:1313/pages/about/</link>
-      <pubDate>Thu, 09 Oct 2025 23:22:32 -0300</pubDate>
-      <guid>http://localhost:1313/pages/about/</guid>
-      <description></description>
-    </item>
+    <lastBuildDate>Thu, 09 Oct 2025 23:16:45 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/anestbook/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>App Policy</title>
       <link>http://localhost:1313/anestbook/policy/</link>
