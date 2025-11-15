@@ -6,21 +6,7 @@
     <description>Recent content in Pages on Gabriel J Reinert</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 09 Oct 2025 23:22:48 -0300</lastBuildDate>
+    <lastBuildDate></lastBuildDate>
     <atom:link href="http://localhost:1313/pages/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Anestbook</title>
-      <link>http://localhost:1313/pages/anestbook/</link>
-      <pubDate>Thu, 09 Oct 2025 23:22:48 -0300</pubDate>
-      <guid>http://localhost:1313/pages/anestbook/</guid>
-      <description>&lt;h1 id=&#34;anesthesia-handbook&#34;&gt;&#xA;  Anesthesia Handbook&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#anesthesia-handbook&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;</description>
-    </item>
-    <item>
-      <title>About</title>
-      <link>http://localhost:1313/pages/about/</link>
-      <pubDate>Thu, 09 Oct 2025 23:22:32 -0300</pubDate>
-      <guid>http://localhost:1313/pages/about/</guid>
-      <description></description>
-    </item>
   </channel>
 </rss>
