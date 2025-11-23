@@ -6,7 +6,21 @@
     <description>Recent content in Pages on Gabriel J Reinert</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
+    <lastBuildDate>Thu, 09 Oct 2025 23:22:48 -0300</lastBuildDate>
     <atom:link href="http://localhost:1313/pages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Anestesia Handbook</title>
+      <link>http://localhost:1313/anestbook/</link>
+      <pubDate>Thu, 09 Oct 2025 23:22:48 -0300</pubDate>
+      <guid>http://localhost:1313/anestbook/</guid>
+      <description>&lt;p&gt;The best anesthesiologist companion app.&lt;/p&gt;&#xA;&lt;p&gt;Soon available on Android and iOS&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/pages/about/</link>
+      <pubDate>Thu, 09 Oct 2025 23:22:32 -0300</pubDate>
+      <guid>http://localhost:1313/pages/about/</guid>
+      <description>&lt;p&gt;App developer&#xA;Doctor&#xA;Anesthesiology resident&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

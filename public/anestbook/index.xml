@@ -6,7 +6,21 @@
     <description>Recent content in Anestbooks on Gabriel J Reinert</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
+    <lastBuildDate>Fri, 21 Nov 2025 23:16:45 -0300</lastBuildDate>
     <atom:link href="http://localhost:1313/anestbook/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>App Policy</title>
+      <link>http://localhost:1313/anestbook/policy/</link>
+      <pubDate>Fri, 21 Nov 2025 23:16:45 -0300</pubDate>
+      <guid>http://localhost:1313/anestbook/policy/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Privacy Policy for Anesthesia Handbook&lt;/strong&gt;&lt;br&gt;&#xA;Effective Date: November 21, 2025&lt;/p&gt;&#xA;&lt;p&gt;We at Anesthesia Handbook (“we,” “us,” or “our”) are committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and protect your information when you use our mobile application (“the App”), which now includes integration with Google Sign-In, Firebase Authentication, and Firebase Analytics.&lt;/p&gt;&#xA;&lt;h3 id=&#34;1-information-we-collect&#34;&gt;&#xA;  1. Information We Collect&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#1-information-we-collect&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;When you use the App, we (or our third-party service providers) may collect the following categories of information:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>App Policy</title>
+      <link>http://localhost:1313/anestbook/oldpolicy/</link>
+      <pubDate>Thu, 09 Oct 2025 23:16:45 -0300</pubDate>
+      <guid>http://localhost:1313/anestbook/oldpolicy/</guid>
+      <description>&lt;h1 id=&#34;privacy-policy-for-anesthesia-handbook&#34;&gt;&#xA;  Privacy Policy for Anesthesia Handbook&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#privacy-policy-for-anesthesia-handbook&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;&lt;em&gt;Effective Date: October, 7th, 2025&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Anesthesia Handbook&lt;/em&gt; (&amp;ldquo;we&amp;rdquo;, &amp;ldquo;us&amp;rdquo;, or &amp;ldquo;our&amp;rdquo;) respects your privacy. This Privacy Policy explains how we handle your information when you use our mobile application.&lt;/p&gt;&#xA;&lt;h2 id=&#34;1-no-data-collection&#34;&gt;&#xA;  1. No Data Collection&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#1-no-data-collection&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;We do not collect, store, or share any personal data from users. The app is designed to function entirely offline, and all calculations and inputs are processed locally on your device.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
