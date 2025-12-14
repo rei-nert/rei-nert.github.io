@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gabriel J. Reinert on Gabriel J Reinert</title>
+    <link>http://localhost:1313/authors/gabriel-j.-reinert/</link>
+    <description>Recent content in Gabriel J. Reinert on Gabriel J Reinert</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 13 Dec 2025 21:12:40 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/authors/gabriel-j.-reinert/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>app-ads.txt</title>
+      <link>http://localhost:1313/app-ads.txt</link>
+      <pubDate>Sat, 13 Dec 2025 21:12:40 -0300</pubDate>
+      <guid>http://localhost:1313/app-ads.txt</guid>
+      <description>&lt;p&gt;google.com, pub-3124511781061847, DIRECT, f08c47fec0942fa0&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
